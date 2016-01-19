@@ -1,1 +1,74 @@
-costituzione italiana
+
+Skip to content
+This repository
+
+    Pull requests
+    Issues
+    Gist
+
+    @marcotrevi
+
+1
+0
+
+    0
+
+marcotrevi/marcotrevi.github.io
+Code
+Issues 0
+Pull requests 0
+Wiki
+Pulse
+Graphs
+Settings
+marcotrevi.github.io/index.html
+007c1c2 4 minutes ago
+@marcotrevi marcotrevi Update index.html
+1 contributor
+42 lines (33 sloc) 1.25 KB
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <title>it's all a big mess</title>
+
+    <link rel="stylesheet" href="stylesheets/styles.css">
+    <link rel="stylesheet" href="stylesheets/github-light.css">
+    <meta name="viewport" content="width=device-width">
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1>it's all a big mess</h1>
+        <p>trying to make sense of Italian law</p>
+
+
+        <p class="view"><a href="https://github.com/marcotrevi">View My GitHub Profile</a></p>
+
+      </header>
+      <section>
+        <h3>
+<a id="costituzione" class="anchor" href="https://github.com/marcotrevi" aria-hidden="true"><span class="octicon octicon-link"></span></a>costituzione italiana</h3>
+
+<p><a href="https://github.com/marcotrevi/marcotrevi.github.io/index">index</a></p>
+
+<h3>
+
+      </section>
+      <footer>
+        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+      </footer>
+    </div>
+    <script src="javascripts/scale.fix.js"></script>
+    
+  </body>
+</html>
+
+    Status API Training Shop Blog About Pricing 
+
+    © 2016 GitHub, Inc. Terms Privacy Security Contact Help 
+
